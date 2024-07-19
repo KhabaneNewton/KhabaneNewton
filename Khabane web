@@ -40,6 +40,14 @@
         .buttons a:hover {
             background-color: #45a049;
         }
+        footer {
+            padding: 10px;
+            background-color: #333;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
     </style>
 </head>
 <body>
@@ -51,8 +59,11 @@
         <p>Saya suka membuat konten dan berbagi pengalaman dengan teman-teman di internet. Jangan lupa cek halaman Saweria dan YouTube saya dibawah ini!</p>
         <div class="buttons">
             <a href="https://saweria.co/KhabaneNewton12" target="_blank">Saweria</a>
-            <a href="https://www.youtube.com/@KhabaneNewtonOfficial" target="_blank">YouTube</a>
+            <a href="https://www.youtube.com/<@1131555168421429379>official" target="_blank">YouTube</a>
         </div>
     </div>
+    <footer>
+        <p>&copy; 2024 Khabane Newton</p>
+    </footer>
 </body>
 </html>
